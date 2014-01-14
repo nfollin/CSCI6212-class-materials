@@ -4,13 +4,13 @@
 
 ## General Information
 
-* Class Time: 6:10 pm - 8:40 pm, 
-* Class Location: Booz Allen's One Dulles Campus Facility Room 2237
+* **Class Time**: 6:10 pm - 8:40 pm, 
+* **Class Location**: Booz Allen's One Dulles Campus Facility Room 2237
 
 ## Instructor Information
 
-* Name: Timothy Kim
-* Email: timothyk at gwu.edu
+* **Name**: Timothy Kim
+* **Email**: timothyk at gwu.edu
 
 ## Course Details
 
