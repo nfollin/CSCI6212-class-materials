@@ -27,7 +27,7 @@
 
 ### Make-up Exam/Quiz
 
-No make-up exam/quiz will be given except for documented illness or personal emergency. The instructor must be notied PRIOR to the scheduled exam time in order for a make-up exam to be granted. A 15-minute quiz will be given each week from 6:10-6:25pm in class. You should arrive in class on time.
+No make-up exam/quiz will be given except for documented illness or personal emergency. The instructor must be notied PRIOR to the scheduled exam time in order for a make-up exam to be granted. A 15-minute quiz will be given at the beginning of class (6:10-6:25pm). You should arrive in class on time.
 
 ### Course Outline
 
