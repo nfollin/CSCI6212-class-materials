@@ -1,5 +1,4 @@
-### George Washignton University
-Department of Computer
+### George Washignton University - Department of Computer Science
 
 # CSCI 6212 - Design & Analysis of Algorithm
 
