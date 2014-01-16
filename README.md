@@ -29,6 +29,27 @@
 
 No make-up exam/quiz will be given except for documented illness or personal emergency. The instructor must be notied PRIOR to the scheduled exam time in order for a make-up exam to be granted. A 15-minute quiz will be given at the beginning of class (6:10-6:25pm). You should arrive in class on time.
 
+### Schedule
+Schedules are subject to change
+
+- Week 1: 1/16/2014 - Lecture
+- Week 2: 1/23/2014 - Quuz + Lecture
+- Week 3: 1/30/2014 - Lecture
+- Week 4: 2/6/2014 - Quuz + Lecture
+- Week 5: 2/13/2014 - Lecture
+- Week 6: 2/20/2014 - Quuz + Lecture
+- Week 7: 2/27/2014 - Review
+- Week 8: 3/6/2014 - Midterm
+- Week 9: 3/13/2014 - Spring Break
+- Week 10: 3/20/2014 - Lecture
+- Week 11: 3/27/2014 - Quiz + Lecture
+- Week 12: 4/3/2014 - Lecture
+- Week 13: 4/10/2014 - Quiz + Lecture
+- Week 14: 4/17/2014 - Lecture
+- Week 15: 4/24/2014 - Quiz + Review
+- Week 16: 5/1/2014 - Reading day (no class)
+- Week 17: 5/8/2014 - Final Exam
+
 ### Course Outline
 
 1. Introduction
