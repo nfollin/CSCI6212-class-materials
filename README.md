@@ -32,7 +32,7 @@ No make-up exam/quiz will be given except for documented illness or personal eme
 ### Course Outline
 
 1. Introduction
-2. Bound Theory
+2. Bound Theory/Asymtotic Notation
 2. Data Structures
 3. Divide-and-Conquer
 4. The Greedy Method
@@ -49,6 +49,7 @@ No make-up exam/quiz will be given except for documented illness or personal eme
 - Binary Trees
 - Graph
 - Heap
+- Disjoint Set (Union/Find)
 
 #### Divide and conquer
 - Min-Max
