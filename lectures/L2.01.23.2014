@@ -1,0 +1,86 @@
+# Data Structure
+
+## Stacks
+
+### Structure
+Collection of entities with Last-in-First-out (LIFO) data structure.
+
+### Operations
+- Push
+- Pop
+- Top
+
+## Queue
+
+### Structure
+Collection of entities with First-in-First-out (FIFO) data structure.
+
+### Operations
+
+- Enqueue
+- Deque
+
+## Graphs
+
+### Structure
+
+A graph, G, is defined by finite set of vertices (or nodes), V, and edges E. Written as:
+
+    G = (V, E)
+
+Where
+
+    E ⊆ V ⨯ V
+
+An edge is written as (x,y) where x and y is the vertex.
+
+### Terminology
+
+- G is a **directed** graph if (x,y) != (y,x)
+- G is an **undirected** graph if (x,y) == (y,x)
+- If E = (x,y) then x is **adjacent to** y and y is **adjacent from** x 
+- If G is undirected graph then we can also say x is the **neighbor** of y
+- **indegree**(x) is the number of vertices adjacent to x
+- **outdegree**(x) is the number of vertices adjacent from x
+- **degree**(x) is the number of neighbors of x
+- **path**
+- **length**
+- **cycle**
+- **connected** graph
+
+## Implementation
+
+* Adjacency matrix
+* Array of linked lists
+
+
+## Tree
+A connected acyclic graph
+
+### Rooted tree
+A tree with a designated vertex called root.
+
+- Parent
+- Child
+
+### Binary Tree
+A rooted tree where every node in the tree has at most two children.
+
+### Bianry Search Tree
+A binary tree where 
+
+1. every node has a key which has a value associated with it
+2. for every node x, all the nodes in the left subtree of x have keys that are less than or equal to x and all the nodes in the right subtree of x have keys that are > x
+
+### Operation
+
+- Insert
+- Delete
+- Search
+
+
+## Disjoint Set (Find/Union Algorithm)
+
+### Structure
+
+### Operations
