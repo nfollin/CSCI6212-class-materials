@@ -1,3 +1,5 @@
+# Homework 2
+
 1. Write a partition algorithm that uses O(1) memory space.
 
 2. Use the master theorem to give the tight asymtotic bound for the following functions:
