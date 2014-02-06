@@ -4,8 +4,10 @@
 
 2. A sequence x<sub>1</sub>, x<sub>2</sub>, ... , x<sub>n</sub> is said to be cyclically sorted if the smallest number in the sequence is x<sub>i</sub>, for some unknown i and the sequence x<sub>i</sub>, x<sub>i+1</sub>, ... , x<sub>n</sub>, x<sub>1</sub>, ... ,x<sub>i-1</sub> is sorted in an increasing order. Give an algorithm to find the position of the minimal element, x<sub>i</sub> in a cyclically sorted sequence with n elements.
 
+```
    Example:
       input  A = [5,6,7,8,9,1,2],
              n = 7
              
       output 1
+```
