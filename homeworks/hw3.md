@@ -9,5 +9,5 @@
       input  A = [5,6,7,8,9,1,2],
              n = 7
              
-      output 1
+      output 6th position
 ```
